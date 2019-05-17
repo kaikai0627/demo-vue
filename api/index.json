@@ -1,0 +1,151 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [
+            {
+                "id": "001",
+                "imgUrl": "static/mock/banner_01.jpg"
+            },
+            {
+                "id": "002",
+                "imgUrl": "static/mock/banner_02.jpg"
+            }
+        ],
+        "iconsList": [
+            {
+                "id": "001",
+                "iconClass": "menu-icon-01",
+                "desc": "国内机票",
+                "link": "/airtitcket/search"
+            },
+            {
+                "id": "002",
+                "iconClass": "menu-icon-02",
+                "desc": "国际机票",
+                "link": ""
+            },
+            {
+                "id": "003",
+                "iconClass": "menu-icon-03",
+                "desc": "火车票",
+                "link": ""
+            },
+            {
+                "id": "004",
+                "iconClass": "menu-icon-04",
+                "desc": "酒店",
+                "link": ""
+            },
+            {
+                "id": "005",
+                "iconClass": "menu-icon-05",
+                "desc": "出差申请",
+                "link": ""
+            },
+            {
+                "id": "006",
+                "iconClass": "menu-icon-06",
+                "desc": "出差审批",
+                "link": "/personal/approve/list"
+            },
+            {
+                "id": "007",
+                "iconClass": "menu-icon-07",
+                "desc": "出差计划",
+                "link": ""
+            },
+            {
+                "id": "008",
+                "iconClass": "menu-icon-08",
+                "desc": "出差标准",
+                "link": ""
+            },
+            {
+                "id": "009",
+                "iconClass": "menu-icon-09",
+                "desc": "消息",
+                "link": "/personal/message/center"
+            },
+            {
+                "id": "0010",
+                "iconClass": "menu-icon-010",
+                "desc": "我的订单",
+                "link": "/personal/order/air"
+            },
+            {
+                "id": "0011",
+                "iconClass": "menu-icon-011",
+                "desc": "网上值机",
+                "link": ""
+            },
+            {
+                "id": "0012",
+                "iconClass": "menu-icon-012",
+                "desc": "航班动态",
+                "link": ""
+            }
+        ],
+        "recommendList": [
+            {
+                "id": "001",
+                "desc": "特价机票",
+                "airImg": "static/mock/air-01.jpg",
+                "depart": "上海",
+                "arrive": "深圳",
+                "date": "2月15日",
+                "week": "周日",
+                "price": "1068"
+            },
+            {
+                "id": "002",
+                "desc": "特价机票",
+                "airImg": "static/mock/air-02.jpg",
+                "depart": "上海",
+                "arrive": "合肥",
+                "date": "2月13日",
+                "week": "周五",
+                "price": "600"
+            },
+            {
+                "id": "003",
+                "desc": "特价机票",
+                "airImg": "static/mock/air-03.jpg",
+                "depart": "上海",
+                "arrive": "南京",
+                "date": "2月12日",
+                "week": "周四",
+                "price": "500"
+            },
+            {
+                "id": "004",
+                "desc": "特价机票",
+                "airImg": "static/mock/air-03.jpg",
+                "depart": "上海",
+                "arrive": "南京",
+                "date": "2月12日",
+                "week": "周四",
+                "price": "500"
+            },
+            {
+                "id": "005",
+                "desc": "特价机票",
+                "airImg": "static/mock/air-03.jpg",
+                "depart": "上海",
+                "arrive": "南京",
+                "date": "2月12日",
+                "week": "周四",
+                "price": "500"
+            },
+            {
+                "id": "006",
+                "desc": "特价机票",
+                "airImg": "static/mock/air-03.jpg",
+                "depart": "上海",
+                "arrive": "南京",
+                "date": "2月12日",
+                "week": "周四",
+                "price": "500"
+            }
+        ]
+    }
+}
